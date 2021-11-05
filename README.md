@@ -1,2 +1,2 @@
-# kubernetes_agro
+# kubernetes_argo
 Kubernetes agro CD project
