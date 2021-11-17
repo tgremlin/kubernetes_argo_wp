@@ -1,2 +1,2 @@
-# kubernetes_agro_wp
+# kubernetes_argo_wp
 Kubernetes agro CD project
